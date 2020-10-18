@@ -1,9 +1,9 @@
-## Hi there !, I am Faiçal Ghali (a Bug 🐞)
+## Hi there !, I am Moncef Gaha (a Bug 🐞)
 
 **My skills 💻:**
 - Web Back-end developper from Algeria 	:algeria: 
-- I Code with Java/Python and PHP
-- I am SpringBoot/Angular :angular: developer
+- I Code with Js/Ts and PHP
+- I am Deno🦕/Node JS developer
 
 **What I do**
 - 📰  Self-learning to develop my programming skills
@@ -12,7 +12,10 @@
 
 ### Contact me at:
 
+[![twitter](https://github.com/moncefplastin07/moncefplastin07/blob/master/icons/twitter.png)](https://twitter.com/moncefplastin07) 
+[![instagram](https://github.com/moncefplastin07/moncefplastin07/blob/master/icons/instagram.png)](https://instagram.com/moncefplastin07) 
+[![facebook](https://github.com/moncefplastin07/moncefplastin07/blob/master/icons/facebook.png)](https://facebook.com/moncefplastin07)
 
 ### Some statistics:
 
-https://github.com/faycal-gh/faycal-gh/blob/main/faycal-gh.svg
+![GitHub metrics](https://github.com/faycal-gh/faycal-gh/blob/main/faycal-gh.svg)
