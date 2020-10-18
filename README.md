@@ -13,8 +13,8 @@
 ### Contact me at:
 
 [![twitter](https://github.com/faycal-gh/faycal-gh/blob/main/icons/twitter.png)](https://twitter.com/FaicalGhali) 
-[![instagram](https://github.com/faycal-gh/faycal-gh/blob/main/icons/instagram.png)](https://web.facebook.com/faycal.ghali.986/)
-[![facebook](https://github.com/faycal-gh/faycal-gh/blob/main/icons/facebook.png)](https://www.instagram.com/faical_gh/)
+[![facebook](https://github.com/faycal-gh/faycal-gh/blob/main/icons/instagram.png)](https://web.facebook.com/faycal.ghali.986/)
+[![instagram](https://github.com/faycal-gh/faycal-gh/blob/main/icons/facebook.png)](https://www.instagram.com/faical_gh/)
 
 ### Some statistics:
 
