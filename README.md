@@ -1,9 +1,9 @@
 ## Hi there !, I am Faiçal Ghali (a Bug 🐞)
 
 **My skills 💻:**
-- Web Back-end/Android Developper from Algeria 	:algeria: 
+- Web Back-end/Android Developer from Algeria 	:algeria: 
 - I Code with Java/Python and PHP
-- I am SpringBoot/Angular developer
+- I am SpringBoot/Angular Developer
 
 **What I do**
 - 📰  Self-learning to develop my programming skills
