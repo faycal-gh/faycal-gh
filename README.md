@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there !, I am Faiçal Ghali (a Bug 🐞)
 
-<!--
-**faycal-gh/faycal-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My skills 💻:**
+- Web Back-end developper from Algeria 	:algeria: 
+- I Code with Java/Python and PHP
+- I am SpringBoot/Angular :angular: developer
 
-Here are some ideas to get you started:
+**What I do**
+- 📰  Self-learning to develop my programming skills
+- ⚡ I like to constantly read technical articles, especially programming issues, to find out what's good
+- Technical content creator for social media platforms (sometimes comic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me at:
+
+
+### Some statistics:
+
+https://github.com/faycal-gh/faycal-gh/blob/main/faycal-gh.svg
