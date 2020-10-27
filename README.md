@@ -1,7 +1,7 @@
 ## Hi there !, I am Faiçal Ghali (a Bug 🐞)
 
 **My skills 💻:**
-- 18 Years Old 24/06 :birthday: 
+- 18 Years Old 24/06 :birthday: :tada:
 - Web Back-end/Android Developer from Algeria 	:algeria: 
 - I Code with Java/Python and PHP
 - I am SpringBoot/Angular Developer
