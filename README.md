@@ -18,5 +18,4 @@
 [![instagram](https://github.com/faycal-gh/faycal-gh/blob/main/icons/instagram.png)](https://www.instagram.com/faical_gh/)
 
 ### Some statistics:
-
-
+![GitHub metrics](https://github.com/faycal-gh/faycal-gh/blob/main/faycal-gh.svg)
