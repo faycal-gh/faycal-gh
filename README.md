@@ -19,4 +19,4 @@
 
 ### Some statistics:
 
-![GitHub metrics](https://github.com/faycal-gh/faycal-gh/blob/main/faycal-gh.svg)
+
