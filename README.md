@@ -2,8 +2,8 @@
 - 19 Years Old 24/06 :birthday: :tada:
 
 **My skills 💻:**
-- Web/Android Developer from Algeria 	:algeria: 
-- I Code with Java/Python and PHP
+- Algerian Developer 🧑‍💻	:algeria: 
+- I Code with Java/Python and JavaScript
 
 **What I do**
 - 📰  Self-learning to develop my programming skills
