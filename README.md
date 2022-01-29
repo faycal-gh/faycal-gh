@@ -17,4 +17,5 @@
 [![instagram](https://github.com/faycal-gh/faycal-gh/blob/main/icons/instagram.png)](https://www.instagram.com/faical_gh/)
 
 ### Some statistics:
-![GitHub metrics](https://github.com/faycal-gh/faycal-gh/blob/main/faycal-gh.svg)
+![Metrics](https://metrics.lecoq.io/faycal-gh?template=classic&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)
+
