@@ -1,5 +1,5 @@
 ## Hi there !, I am Faiçal Ghali (a Bug 🐞)
-- 22 Years Old 24/06 :birthday: :tada:
+- 23 Years Old 24/06 :birthday: :tada:
 
 **My skills 💻:**
 - Algerian Developer 🧑‍💻	:algeria: 
