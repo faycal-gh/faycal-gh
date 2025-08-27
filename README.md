@@ -1,4 +1,4 @@
-## Hi there !, I am Faiçal Ghali (a Bug 🐞)
+## Hi there !, I am Faiçal Ghali
 - 23 Years Old 24/06 :birthday: :tada:
 
 **My skills 💻:**
